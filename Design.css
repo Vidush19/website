@@ -1,0 +1,26 @@
+#HM {
+    position: relative;
+    font-size: 500%;
+    font-family: "Chiller";
+    text-align: center;
+    color: black;
+    top: 2px;
+}
+div{
+    text-align: center;
+}
+#grad {
+    height: 595px;
+    background-image: linear-gradient(to right bottom, red , black);
+}
+#d1 {
+    position: relative;
+    left: 100px;
+    
+}
+
+#d2 {
+    position: relative;
+    left: 650px;
+    transform: scaleX(-1);
+}
